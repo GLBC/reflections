@@ -1,0 +1,1 @@
+El área de proceso se diferencia del directorio de trabajo para disponer de los archivos como un borrador.
